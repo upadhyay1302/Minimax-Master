@@ -14,15 +14,15 @@ This project is an implementation of the classic Tic Tac Toe game in Python, fea
 ## Features
 
 - Player-vs-Player (PvP) mode.
-- AI mode implementing the Minimax algorithm for game moves.
+- Unbeatable AI mode implementing the Minimax algorithm for game moves.
 - Random AI mode
 - Graphical interface using Pygame.
 
 ## Game Instructions
 
 press 'g' to change gamemode (pvp or ai)
-press '0' to change ai level to 0 (random)
-press '1' to change ai level to 1 (impossible)
+press '0' to change ai level to 0 (random AI)
+press '1' to change ai level to 1 (unbeatable AI )
 press 'r' to restart the game
 
 ## Installation
